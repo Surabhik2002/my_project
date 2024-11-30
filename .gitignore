@@ -1,0 +1,7 @@
+# Ignore specific files
+trial projects/upload_multiple_images_to_s3.py
+upload_to_s3.py
+
+# Ignore the entire folder
+trial_projects/
+ 
